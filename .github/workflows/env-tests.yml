@@ -41,7 +41,6 @@ jobs:
           yamllint .github/workflows/*.yml
           yamllint ./conda_build_config.yaml
           # Use the conda_build api to lint the env files since they use jinja.
-          cd ./open-ce
           ./open-ce/open-ce validate env envs/*.yaml
           # Validate conda_build_config for the main open-ce env file.
           ./open-ce/open-ce validate config --conda_build_config \
