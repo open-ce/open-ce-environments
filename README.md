@@ -106,7 +106,7 @@ packages:
 
 This field specifies the list of patches that are to be applied to the feedstock.
 Patches to be applied are expected to be present in `feedstock-patches` directory
-within open-ce repository. Ideal way is to have the patches placed in the directory named
+within `open-ce-environments` repository. Ideal way is to have the patches placed in the directory named
 as the feedstock, within `feedstock-patches` directory.
 An example might look something like this:
 
