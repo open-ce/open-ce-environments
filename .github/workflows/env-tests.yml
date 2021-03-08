@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           repository: open-ce/open-ce
-          path: ./open_ce
+          path: ./open-ce
       - uses: conda-incubator/setup-miniconda@v2.0.0
         with:
           auto-update-conda: true
