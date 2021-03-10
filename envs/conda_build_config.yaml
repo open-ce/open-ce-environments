@@ -140,7 +140,7 @@ nccl:
 numactl:
   - 2.0.*
 numba:
-  - 0.47.*
+  - 0.52.*
 numpy:
   - 1.19.*
 onnx:
@@ -180,7 +180,7 @@ python:
 python_lmdb:
   - 0.98.*
 pytorch:
-  - 1.7.*
+  - 1.8.*
 pytorch_lightning:
   - 1.1.*
 pyyaml:
@@ -225,9 +225,9 @@ thinc:
 tokenizers:
   - 0.9.3
 torchtext:
-  - 0.8.*
+  - 0.9.*
 torchvision:
-  - 0.8.*
+  - 0.9.*
 tqdm:
   - 4.*
 typing_extensions:
