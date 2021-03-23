@@ -175,8 +175,6 @@ pytest:
 python:
   - 3.6
   - 3.7
-python_lmdb:
-  - 0.98.*
 pytorch:
   - 1.8.*
 pytorch_lightning:
