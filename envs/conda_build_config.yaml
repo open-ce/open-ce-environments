@@ -139,8 +139,6 @@ nccl:
   - 2.7.*
 numactl:
   - 2.0.*
-numba:
-  - 0.47.*
 numpy:
   - 1.19.*
 onnx:
@@ -177,8 +175,6 @@ pytest:
 python:
   - 3.6
   - 3.7
-python_lmdb:
-  - 0.98.*
 pytorch:
   - 1.7.*
 pytorch_lightning:
