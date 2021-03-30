@@ -9,7 +9,6 @@ packages:
   - feedstock : nccl
   - feedstock : cudnn
 {% endif %}
-  - feedstock : python-flatbuffers
   - feedstock : tensorflow
   - feedstock : libevent
   - feedstock : tensorflow-serving
@@ -21,7 +20,6 @@ packages:
   - feedstock : tensorflow-hub
   - feedstock : tensorflow-metadata
   - feedstock : tensorflow-datasets
-  - feedstock : protobuf          #[ppc64le and python == '3.8']
   - feedstock : tensorflow-text
   - feedstock : tensorflow-model-optimization
   - feedstock : tensorflow-addons
