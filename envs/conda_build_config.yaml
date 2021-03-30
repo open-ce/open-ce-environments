@@ -77,6 +77,8 @@ googleapis_common_protos:
 graphsurgeon:
   - 0.4.1                     # [cudatoolkit == '10.2']
   - 0.4.5                     # [cudatoolkit == '11.0']
+grpccpp:
+    1.26.*
 grpcio:
   - 1.31.*
 harfbuzz:
