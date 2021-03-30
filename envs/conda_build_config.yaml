@@ -167,7 +167,7 @@ plac:
 preshed:
   - 3.0.*
 protobuf:
-  - 3.9.*
+  - 3.11.4
 psutil:
   - 5
 pytest:
