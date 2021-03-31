@@ -11,4 +11,4 @@ can be found here in the [Open-CE Repo](https://github.com/open-ce/open-ce).
 ## Environment File Syntax
 
 Information on how to read and modify the environment files can be found in
-the Open-CE Repo in the [Yaml Readme](https://github.com/open-ce/open-ce/blob/master/doc/README.yaml.md).
+the Open-CE Repo in the [Yaml Readme](https://github.com/open-ce/open-ce/blob/main/doc/README.yaml.md).
