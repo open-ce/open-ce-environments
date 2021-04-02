@@ -1,5 +1,7 @@
 absl_py:
   - 0.10.*
+arrow:
+  - 3.0.0
 astunparse:
   - 1.6
 attrs:
